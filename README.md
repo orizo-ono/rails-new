@@ -25,4 +25,4 @@ Things you may want to cover:
 
 # 起動
 
-`rails sever`
+`rails server`
